@@ -39,3 +39,10 @@ addTeamInfo <- function(pbp_df) {
     dplyr::left_join(home_school_info, by = c("year", "home"))
   return (pbp_df_upd)
 }
+
+#' Add Pitch Info
+#'
+#' Adds pitch-level information to the scraped play-by-play dataframe
+addPitchInfo <- function(pbp_df) {
+
+}
