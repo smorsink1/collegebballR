@@ -134,4 +134,3 @@ scrapeConferenceSeason <- function(conference_name, season_year) {
   return (conf_pbp)
 }
 
-

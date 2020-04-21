@@ -43,6 +43,6 @@ addTeamInfo <- function(pbp_df) {
 #' Add Pitch Info
 #'
 #' Adds pitch-level information to the scraped play-by-play dataframe
-addPitchInfo <- function(pbp_df) {
-
-}
+# addPitchInfo <- function(pbp_df) {
+#
+# }
